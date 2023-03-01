@@ -1,6 +1,6 @@
 Comandos básicos para um bom desempenho no terminal
 
-Prompt de Comando (Windows): Windows>CMD
+1. Prompt de Comando (Windows): Windows>CMD
 
 Listar as pastas:  DIR>enter (Saber qual pasta estamos)
 Mudar de pastas: cd/  (cd + nome pasta)
@@ -12,10 +12,19 @@ Deletar pasta com tudo: rmdir + nome pasta /S /Q
 Limpar tela: cls
 TAB: autocompleta
 
-Link para download do Git: https://git-scm.com/downloads
+2. Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-Comandos (GIT):
+3. Comandos (GIT):
+
+sha1 (40 caracteres): openssl sha1 + nome arquivo
+
+Objetos do GIT:
+
+Blobs
+Trees
+Commits
+
 
 Mudar de pastas
 Listar as pastas
