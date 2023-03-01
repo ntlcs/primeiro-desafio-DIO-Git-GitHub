@@ -1,0 +1,34 @@
+Comandos básicos para um bom desempenho no terminal
+
+Prompt de Comando (Windows): Windows>CMD
+
+Listar as pastas:  DIR>enter (Saber qual pasta estamos)
+Mudar de pastas: cd/  (cd + nome pasta)
+Retroceder a pasta: cd.. (volta para pasta mãe)
+Criar pastas/arquivos: mkdir + nome pasta
+Echo (devolve o que escrevemos, para criar um arquivo): echo nome > nome.txt (exemplo)
+Deletar arquivos: del + nome arquivo (ou nome da pasta e deleta o que ela contem, mas não a pasta)
+Deletar pasta com tudo: rmdir + nome pasta /S /Q
+Limpar tela: cls
+TAB: autocompleta
+
+Link para download do Git: https://git-scm.com/downloads
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Comandos (GIT):
+
+Mudar de pastas
+Listar as pastas
+Criar pastas/arquivos
+Deletar pastas/arquivos
+Clonar
+Status
+Limpar tela
+
+
+Comandos antes de sicronizar com o GitHub (Importante)
+
+
+
+
+
