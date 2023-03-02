@@ -42,6 +42,9 @@ git commit -m "texto explicando o commit" : commit identificado pelo texto
 
 5. GitHub
 
-
+- Aprendi a criar repositório
+- git remote add origin + https:xxxx (dando apelido para o repositório)
+- git remote -v (lista de repositório que tenho cadastrado)
+- git push (adicionar arquivos do Git para GitHub)
 
 
