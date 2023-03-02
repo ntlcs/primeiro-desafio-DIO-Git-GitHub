@@ -18,25 +18,29 @@ O Git Bash é um terminal extendido para otimizar o uso do Git.
 3. Comandos (GIT):
 
 sha1 (40 caracteres): openssl sha1 + nome arquivo
+Registro de chave ssh: ssh-keygen -t ed25519 -c +email
+gera par de chaves pública e privada
+Vai até a pasta para ver as chaves
+cd / c/users/nome usuario/.ssh/
+liste: ls para ver as chaves
+Incluir no GitHub é a pública sempre
+No GitHub em SSH Keys dá um título e coloca a chave.
 
-Objetos do GIT:
+4. Primeiros comandos do GIT
 
-Blobs
-Trees
-Commits
-
-
-Mudar de pastas
-Listar as pastas
-Criar pastas/arquivos
-Deletar pastas/arquivos
-Clonar
-Status
-Limpar tela
+git init: para iniciar o git (status master) - inicializa o repositório
+ls : lista itens de um repositório
+ls -a: mostra itens ocultos
+git config --global user.email "+ email" (ajuste de configuração global, pode ser feita de forma específica se preciso)
+git config --global user.name "+ name" (ajuste de configuração global, pode ser feita de forma específica se preciso)
+arquivo Markdown (mais fácil que HTML)
+git add * : inclui todas alterações
+git status: diz se teve alguma alteração para commit
+git commit -m "texto explicando o commit" : commit identificado pelo texto
 
 
-Comandos antes de sicronizar com o GitHub (Importante)
 
+5. GitHub
 
 
 
